@@ -17,7 +17,6 @@ body {
 .longo {
     background-color: pink;
 }
-
 /* Estilo aplicado no elemento pelo 
    id=p1 
 */
@@ -26,8 +25,14 @@ body {
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
 /* Estilo aplicado para a tag p */
 p {
     font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    background-color: green;
+}
+ol {
+    color: red;
 }
