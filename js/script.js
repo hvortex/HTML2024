@@ -10,7 +10,7 @@ console.log("Segundo");
 Atalho para comentário de várias linhas
 ALT + SHIT + A 
 */
-
+  
 // Tipagem fraca
 var teste = 1;
 console.log(typeof(teste));
