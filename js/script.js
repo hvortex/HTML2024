@@ -22,6 +22,7 @@ document.write("<hr>O valor da variável teste agora é " + teste + "<hr>")
 nome = 'joao'
 console.log(nome.toUpperCase())
 
+// Formas de declaração de variáveis
 var v1 = 5.25;
 let v2 = null;
 const v3 = 'teste';
